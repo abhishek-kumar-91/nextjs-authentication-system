@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![signup](https://github.com/abhishek-kumar-91/nextjs-authentication-system/assets/111195553/99b6e8f4-3e93-4dc6-b2fb-3fcca118c1fc)
+![login form with google](https://github.com/abhishek-kumar-91/nextjs-authentication-system/assets/111195553/09cdaeb0-e340-4052-a76c-f4fd17835c90)
+![home](https://github.com/abhishek-kumar-91/nextjs-authentication-system/assets/111195553/00c1c022-75be-4831-b7e0-738808166747)
+
+
 ## Getting Started
 
 First, run the development server:
